@@ -1,3 +1,15 @@
 # Ignore node_modules directory
 node_modules/
 
+#Ignore scratchpad notes
+scratchpad.txt
+
+#Ignore config
+config.js
+
+#Ignore eventHandling
+eventHandling.js
+
+#Ignore test files
+test/*
+
